@@ -1,3 +1,6 @@
+body {
+	text-align: center;
+}
 div {
 	border: 1px solid #000;
 	text-align: center;
@@ -5,9 +8,10 @@ div {
 	height: 100px;
 	width: 100px;
 	display: table-cell;
+	cursor: pointer;
 }
 #bomb-it {
-	margin-left: 34%;
+	margin-left: 35%;
 }
 .number {
 	margin: 0;
