@@ -1,0 +1,33 @@
+div {
+	border: 1px solid #000;
+	text-align: center;
+	font-size: 60px;
+	height: 100px;
+	width: 100px;
+	display: table-cell;
+}
+#bomb-it {
+	margin-left: 34%;
+}
+.number {
+	margin: 0;
+	color: #fff;
+}
+.numberShow {
+	color: #000;
+}
+.change-color {
+	background-color: #000;
+}
+button {
+	background-color: #000;
+	color: #fff;
+	font-size: 20px;
+	margin-top: 10px;
+	padding: 1%;
+	border: none;
+}
+img {
+	350px;
+	margin: 2% 35%;
+}
